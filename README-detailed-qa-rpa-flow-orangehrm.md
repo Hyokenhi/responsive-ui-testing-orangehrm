@@ -174,7 +174,7 @@ The results of the tests can be accessed via the **Actions** tab in your GitHub 
 🚀 Passionate about automation, RPA, and continuous learning, aiming to grow in the field of QA Automation.  
 💡 Committed to improving software quality through effective and automated testing solutions.
 
-📬 Contact: [LinkedIn](https://www.linkedin.com/in/Hyokenhi/) | GitHub: [@Crisweisk](https://github.com/Hyokenhi)
+📬 Contact: [LinkedIn](https://www.linkedin.com/in/Hyokenhi/) | GitHub: [@Hyokenhi](https://github.com/Hyokenhi)
 
 ---
 
