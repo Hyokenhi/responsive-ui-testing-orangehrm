@@ -20,7 +20,6 @@ responsive-ui-testing-orangehrm/
 │
 ├── .gitignore                 # Git ignore file
 ├── README.md                  # This file
-├── README_SPA.md              # Single Page Application Readme (if applicable)
 ├── package-lock.json          # NPM lock file
 ├── package.json               # NPM configuration file
 └── cypress.config.js          # Cypress configuration for the project
